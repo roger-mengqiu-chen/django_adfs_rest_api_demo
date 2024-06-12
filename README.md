@@ -1,0 +1,1 @@
+This is a demo app for implementation REST API protected by Django ADFS
